@@ -1,0 +1,7 @@
+# 머세너리 (전술 아머)
+
+## Outfit
+heavy tactical chest plate over grey combat fatigues, ballistic vest with MOLLE pouches and ammo clips, armored pauldrons and elbow guards, camo cargo pants with utility straps, heavy military boots, combat gloves, utility belt with holstered sidearms
+
+## Full Prompt
+Gaya, teenage girl 17 years old, short silver-white bob with layered bangs, bright pale blue eyes, fair pale skin, slender 160cm frame wearing heavy tactical chest plate over grey combat fatigues, ballistic vest with MOLLE pouches and ammo clips, armored pauldrons and elbow guards, camo cargo pants with utility straps, heavy military boots, combat gloves, utility belt with holstered sidearms. mobile game pixel art sprite, Survivor.io / Archero roguelite style, 48x64 sprite, 3-head-tall semi-chibi, front facing static idle pose, rich 32-color palette, cel shading with 2-tone, small visible eyes with pupils, clean 1-2px outline, strong readable silhouette, detailed outfit details visible at 48px, pure flat chroma key green #00FF00 background, crisp pixel edges, no anti-aliasing. no anti-aliasing, no smooth gradients, no blur, not anime illustration, not digital painting, no soft shading, no photorealism, no 3D render look, no text, no labels, no watermark, no grid lines, only one single character, full body visible.

@@ -1,0 +1,7 @@
+# 네온 레이버 (파티 펑크)
+
+## Outfit
+oversized neon-yellow mesh crop top with rainbow fiber optic lights, high-waisted purple vinyl shorts with LED piping, bright pink thigh-high platform boots with glowing soles, transparent plastic backpack with glowing cyber trinkets, multiple neon chokers and wristbands
+
+## Full Prompt
+Gaya, teenage girl 17 years old, short silver-white bob with layered bangs, bright pale blue eyes, fair pale skin, slender 160cm frame wearing oversized neon-yellow mesh crop top with rainbow fiber optic lights, high-waisted purple vinyl shorts with LED piping, bright pink thigh-high platform boots with glowing soles, transparent plastic backpack with glowing cyber trinkets, multiple neon chokers and wristbands. mobile game pixel art sprite, Survivor.io / Archero roguelite style, 48x64 sprite, 3-head-tall semi-chibi, front facing static idle pose, rich 32-color palette, cel shading with 2-tone, small visible eyes with pupils, clean 1-2px outline, strong readable silhouette, detailed outfit details visible at 48px, pure flat chroma key green #00FF00 background, crisp pixel edges, no anti-aliasing. no anti-aliasing, no smooth gradients, no blur, not anime illustration, not digital painting, no soft shading, no photorealism, no 3D render look, no text, no labels, no watermark, no grid lines, only one single character, full body visible.

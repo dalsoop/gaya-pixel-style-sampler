@@ -30,6 +30,32 @@
 
 ---
 
+## 사이버펑크 의상 변주 (동일 픽셀 스타일, 의상만 교체)
+
+공통: Archero/Survivor.io 3-head-tall semi-chibi, 48×64, 32-color, 1-2px outline, chroma green bg.
+
+| # | 의상 | 결과물 |
+|---|---|---|
+| 01 | 넷러너 (타이트 바디슈트·네온 회로) | ![01](outfits-cyberpunk/01-netrunner/result.png) |
+| 02 | 스트릿 사무라이 (롱코트·카타나) | ![02](outfits-cyberpunk/02-street-samurai/result.png) |
+| 03 | 기업 해커 (정장+네온 핀스트라이프) | ![03](outfits-cyberpunk/03-corporate-hacker/result.png) |
+| 04 | 네온 레이버 (옐로 메쉬+퍼플 반바지) | ![04](outfits-cyberpunk/04-neon-raver/result.png) |
+| 05 | 메크 파일럿 (유틸리티 수트) | ![05](outfits-cyberpunk/05-mech-pilot/result.png) |
+| 06 | 테크노 위치 (홀로그램 망토) | ![06](outfits-cyberpunk/06-techno-witch/result.png) |
+| 07 | 머세너리 (전술 아머) | ![07](outfits-cyberpunk/07-mercenary/result.png) |
+| 08 | 아이돌 사이버 (RGB 팝) | ![08](outfits-cyberpunk/08-idol-cyber/result.png) |
+
+각 폴더 `outfits-cyberpunk/<name>/`:
+- `prompt.txt` — outfit description + full prompt
+- `result.png` — Nano 출력물
+
+핵심 발견:
+- Nano 가 **의상만 강하게 지정해도** 동일 identity 잘 유지 (은발·파란눈 고정)
+- 일부는 Nano 가 자발적으로 **다뷰 턴어라운드** 내놓음 (넷러너 3뷰, 스트릿 사무라이 캐릭터 시트)
+- 의상 디테일은 **48×64 정도 해상도** 에서만 살아남음 (Vampire Survivors 24×24 로는 의상 못 알아봄)
+
+---
+
 ## 공통 캐릭터 설정 (가야)
 
 ```

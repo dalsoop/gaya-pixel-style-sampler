@@ -1,0 +1,7 @@
+# 스트릿 사무라이 (롱코트)
+
+## Outfit
+long flowing deep crimson trench coat with armored shoulder pads and techno-embroidered dragon motif, fitted black techwear shirt underneath, dark charcoal cargo pants with utility straps, thigh-holstered pistol, cyberpunk katana scabbard on hip, combat boots with chrome toe caps
+
+## Full Prompt
+Gaya, teenage girl 17 years old, short silver-white bob with layered bangs, bright pale blue eyes, fair pale skin, slender 160cm frame wearing long flowing deep crimson trench coat with armored shoulder pads and techno-embroidered dragon motif, fitted black techwear shirt underneath, dark charcoal cargo pants with utility straps, thigh-holstered pistol, cyberpunk katana scabbard on hip, combat boots with chrome toe caps. mobile game pixel art sprite, Survivor.io / Archero roguelite style, 48x64 sprite, 3-head-tall semi-chibi, front facing static idle pose, rich 32-color palette, cel shading with 2-tone, small visible eyes with pupils, clean 1-2px outline, strong readable silhouette, detailed outfit details visible at 48px, pure flat chroma key green #00FF00 background, crisp pixel edges, no anti-aliasing. no anti-aliasing, no smooth gradients, no blur, not anime illustration, not digital painting, no soft shading, no photorealism, no 3D render look, no text, no labels, no watermark, no grid lines, only one single character, full body visible.

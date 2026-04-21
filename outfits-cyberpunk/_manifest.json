@@ -1,0 +1,42 @@
+[
+  {
+    "id": "01-netrunner",
+    "desc": "넷러너 (타이트 바디슈트)",
+    "asset_id": 650
+  },
+  {
+    "id": "02-street-samurai",
+    "desc": "스트릿 사무라이 (롱코트)",
+    "asset_id": 651
+  },
+  {
+    "id": "03-corporate-hacker",
+    "desc": "기업 해커 (정장+네온)",
+    "asset_id": 652
+  },
+  {
+    "id": "04-neon-raver",
+    "desc": "네온 레이버 (파티 펑크)",
+    "asset_id": 653
+  },
+  {
+    "id": "05-mech-pilot",
+    "desc": "메크 파일럿 (유틸리티 수트)",
+    "asset_id": 654
+  },
+  {
+    "id": "06-techno-witch",
+    "desc": "테크노 위치 (홀로그램 망토)",
+    "asset_id": 655
+  },
+  {
+    "id": "07-mercenary",
+    "desc": "머세너리 (전술 아머)",
+    "asset_id": 656
+  },
+  {
+    "id": "08-idol-cyber",
+    "desc": "아이돌 사이버 (네온 팝)",
+    "asset_id": 657
+  }
+]
