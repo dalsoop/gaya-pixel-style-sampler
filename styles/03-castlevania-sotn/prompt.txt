@@ -1,0 +1,7 @@
+# Castlevania SOTN (Gothic 16-bit)
+
+## Positive
+16-bit SNES-era pixel art, Castlevania Symphony of the Night aesthetic, Gaya, teenage girl 17 years old, short silver-white bob with layered bangs, bright pale blue eyes, fair pale skin, slender 160cm frame, white long-sleeve blouse with soft puffed shoulders and small ribbon tie at collar, high-waisted navy pleated skirt knee length, white knee-high socks, black mary jane shoes, side-view profile facing right, 32x48 sprite, chunky pixels, ordered Bayer dithering for cloth shadows and highlights, muted gothic palette (deep purples, bone whites, blood red accents), bold black outlines 2px, strong silhouette, hair flowing slightly, pure flat chroma key green #00FF00 background, no anti-aliasing, clean pixel edges. no anti-aliasing, no smooth gradients, no blur, not anime illustration, not digital painting, not concept art, no soft shading, no photorealism, no 3D render look, no text, no labels, no watermark, no logo, no grid lines, no multiple characters, only one single character, full body visible.
+
+## Negative
+no anti-aliasing, no smooth gradients, no blur, not anime illustration, not digital painting, not concept art, no soft shading, no photorealism, no 3D render look, no text, no labels, no watermark, no logo, no grid lines, no multiple characters, only one single character, full body visible.

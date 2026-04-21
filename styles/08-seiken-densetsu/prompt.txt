@@ -1,0 +1,7 @@
+# Seiken Densetsu 3 (SNES SquareSoft)
+
+## Positive
+16-bit SNES JRPG pixel art, Seiken Densetsu 3 / Secret of Mana SquareSoft aesthetic, Gaya, teenage girl 17 years old, short silver-white bob with layered bangs, bright pale blue eyes, fair pale skin, slender 160cm frame, white long-sleeve blouse with soft puffed shoulders and small ribbon tie at collar, high-waisted navy pleated skirt knee length, white knee-high socks, black mary jane shoes, 32x48 sprite, 3-head-tall anime chibi, front facing idle with arms slightly out, 15-bit SNES palette with hand-dithered gradients, soft cel shading, rounded face with small anime-style dot eyes and eyelashes, 1-2px dark outline, pastel cheerful colors, pure flat chroma key green #00FF00 background. no anti-aliasing, no smooth gradients, no blur, not anime illustration, not digital painting, not concept art, no soft shading, no photorealism, no 3D render look, no text, no labels, no watermark, no logo, no grid lines, no multiple characters, only one single character, full body visible.
+
+## Negative
+no anti-aliasing, no smooth gradients, no blur, not anime illustration, not digital painting, not concept art, no soft shading, no photorealism, no 3D render look, no text, no labels, no watermark, no logo, no grid lines, no multiple characters, only one single character, full body visible.

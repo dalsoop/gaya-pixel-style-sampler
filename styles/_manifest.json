@@ -1,0 +1,42 @@
+[
+  {
+    "id": "01-vampire-survivors",
+    "desc": "Vampire Survivors (Antonio chunky 24x24)",
+    "asset_id": 642
+  },
+  {
+    "id": "02-chrono-trigger",
+    "desc": "Chrono Trigger (Toriyama chibi JRPG)",
+    "asset_id": 643
+  },
+  {
+    "id": "03-castlevania-sotn",
+    "desc": "Castlevania SOTN (Gothic 16-bit)",
+    "asset_id": 644
+  },
+  {
+    "id": "04-stardew-valley",
+    "desc": "Stardew Valley (ConcernedApe cute farm)",
+    "asset_id": 645
+  },
+  {
+    "id": "05-pico8-minimal",
+    "desc": "PICO-8 (16 색 극미니)",
+    "asset_id": 646
+  },
+  {
+    "id": "06-archero",
+    "desc": "Archero (3D-ish 3/4 view)",
+    "asset_id": 647
+  },
+  {
+    "id": "07-hyperlight-drifter",
+    "desc": "Hyper Light Drifter (네온 사이버펑크)",
+    "asset_id": 648
+  },
+  {
+    "id": "08-seiken-densetsu",
+    "desc": "Seiken Densetsu 3 (SNES SquareSoft)",
+    "asset_id": 649
+  }
+]

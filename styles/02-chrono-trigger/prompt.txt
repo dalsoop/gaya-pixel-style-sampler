@@ -1,0 +1,7 @@
+# Chrono Trigger (Toriyama chibi JRPG)
+
+## Positive
+16-bit SNES JRPG overworld sprite, Chrono Trigger / Akira Toriyama chibi style, Gaya, teenage girl 17 years old, short silver-white bob with layered bangs, bright pale blue eyes, fair pale skin, slender 160cm frame, white long-sleeve blouse with soft puffed shoulders and small ribbon tie at collar, high-waisted navy pleated skirt knee length, white knee-high socks, black mary jane shoes, 2-head-tall super-deformed chibi, 24x32 sprite dimensions, 4-direction facing down (towards camera), static idle pose, dot eyes single pixel mouth, hair silhouette prioritized over face detail, flat cel shading with 2-tone palette per material, no gradients, SNES 15-bit palette, bold 2px black outline, clean pixel edges, pure flat chroma key green #00FF00 background. no anti-aliasing, no smooth gradients, no blur, not anime illustration, not digital painting, not concept art, no soft shading, no photorealism, no 3D render look, no text, no labels, no watermark, no logo, no grid lines, no multiple characters, only one single character, full body visible.
+
+## Negative
+no anti-aliasing, no smooth gradients, no blur, not anime illustration, not digital painting, not concept art, no soft shading, no photorealism, no 3D render look, no text, no labels, no watermark, no logo, no grid lines, no multiple characters, only one single character, full body visible.
